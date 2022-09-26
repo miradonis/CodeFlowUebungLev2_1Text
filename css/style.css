@@ -1,0 +1,40 @@
+body {
+    width: 1500px;
+}
+
+h1 {
+    font-size: 48px;
+    background-color: gray;
+    color: white;
+    text-shadow: 8px 8px black;
+    font-family: Tahoma;
+    text-align: center;
+}
+
+nav p {
+    text-indent: 20px;
+    word-spacing: 10px;
+    font-family: Lucida Sans Unicode;
+}
+
+main p {
+    text-indent: 20px;
+    word-spacing: 10px;
+    font-family: Lucida Sans Unicode;
+}
+
+h2 {
+    text-shadow: 5px 5px 10px black;
+    letter-spacing: 5px;
+}
+
+section p {
+    line-height: 25px;
+    background-color: #888888;
+}
+
+aside p {
+    line-height: 25px;
+    background-color: #4b4b4b;
+    color: white;
+}
